@@ -1,4 +1,4 @@
-module github.com/v-byte-cpu/sx
+module github.com/yucehasan/sx
 
 go 1.19
 
