@@ -1,4 +1,4 @@
-module github.com/yucehasan/sx
+module github.com/nihadaliyev3/sx
 
 go 1.19
 
